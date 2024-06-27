@@ -31,6 +31,7 @@ npm test
 
 ### Project Structure
 
+```bash
 string-calculator/
 ├── src/
 │   └── stringCalculator.ts
@@ -39,3 +40,5 @@ string-calculator/
 ├── package.json
 ├── tsconfig.json
 └── jest.config.js
+```
+
